@@ -40,9 +40,5 @@ Otherwise, take a look at our live demonstration of the our app using the link b
 
 
 
-<h2 align='center'>JobPrepr Pages</h2>
-
-<h3 align='center'>Home</h3>
-
 
 
